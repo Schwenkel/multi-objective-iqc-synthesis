@@ -32,7 +32,7 @@ If you use this code in your research, please cite our work:
 }
 ```
   
-## Support and Contact
+## Contact
 
 For any questions or issues related to this code, don't hesitate to get in touch with the author:
 
@@ -46,5 +46,5 @@ Some parts of the code implement methods from the following articles. These part
 - C. W. Scherer, J. Veenman, Stability analysis by dynamic dissipation inequalities: On merging frequency-domain techniques with time-domain conditions. Systems & Control Letters 121 (2018), 7–15
 - C. W. Scherer, S. Weiland, Linear Matrix Inequalities in Control - Lecture Notes, Delft University of Technology (2005), Delft, Netherlands
 - L. Schwenkel, J. Köhler, M. A. Müller, and F. Allgöwer, Robust peak-to-peak gain analysis using integral quadratic constraints, Proc. 22nd IFAC World Congress (2023), 11564–11569
-- J. Veenman, C. W. Scherer, and H. Köroglu, Robust stability and performance analysis based on integral quadratic constraints, European J. Control 31 (2016)
+- J. Veenman, C. W. Scherer, and H. Köroglu, Robust stability and performance analysis based on integral quadratic constraints, European J. Control 31 (2016), 1–32
 
