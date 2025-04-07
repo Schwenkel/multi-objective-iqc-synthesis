@@ -35,8 +35,9 @@ If you use this code in your research, please cite our work:
 @article{Schwenkel2025,
   title={Multi-objective robust controller synthesis with integral quadratic constraints in discrete-time},
   author={L. Schwenkel and J. K{\"o}hler and M. A. M{\"u}ller and C. W. Scherer and F. Allg{\"o}wer}},
-  year={2025}
-  journal={arxiv:2503.22429}
+  year={2025},
+  journal={arxiv:2503.22429},
+  doi={10.48550/arXiv.2503.22429},
 }
 ```
   
